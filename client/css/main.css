@@ -1,0 +1,22 @@
+body {
+    background: #000 url("/images/14.jpeg") repeat center top fixed;
+    background-size: 1800px;
+}
+
+.registration-page h1 {
+    text-align: center;
+    text-transform: capitalize;
+    border-top: thin solid #ddd;
+    border-bottom: thin solid #ddd;
+    padding: 20px 0;
+}
+
+.validation {
+    color: #d9534f
+}
+
+.registration-page {
+    background: rgba(245, 245, 245, 0.80);
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
